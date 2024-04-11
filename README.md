@@ -16,4 +16,8 @@ Os comparto mis apuntes de hackign en MarkDown
 
 ![image](https://github.com/rubenza02/HackingNotes/assets/114658889/4b360e0c-224d-4e5f-9907-41ac46587296)
 
+- Descomprimimos el archivo en el pc para poder ya utilizarlo
+
+
+![image](https://github.com/rubenza02/HackingNotes/assets/114658889/d1ab1e8d-0180-40b9-a99e-6310bb012f2a)
 
